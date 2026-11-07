@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 敏感配置（不要提交到 git）
+.env
+.env.local
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 数据与缓存
+*.log
+.cache/
