@@ -21,3 +21,6 @@ env/
 # 数据与缓存
 *.log
 .cache/
+
+# Agent 运行时生成的临时脚本
+ch1/agent_workspace/
